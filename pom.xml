@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>challengesWeb</artifactId>
-	<packaging>war</packaging>
 
 	<name>Challenges WebApp</name>
 	<description>Demo project for Spring Boot</description>
