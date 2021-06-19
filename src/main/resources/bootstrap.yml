@@ -5,5 +5,5 @@ eureka:
     
   client:
    serviceUrl:
-     defaultZone: hhttp://172.30.105.128:8761/eureka/
+     defaultZone: http://172.30.105.128:8761/eureka/
   
